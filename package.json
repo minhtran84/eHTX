@@ -1,0 +1,19 @@
+{
+  "name": "ehtx",
+  "version": "1.0.0",
+  "description": "Bootstrap layout for eHTX project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhtran84/eHTX.git"
+  },
+  "author": "Minh Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhtran84/eHTX/issues"
+  },
+  "homepage": "https://github.com/minhtran84/eHTX#readme"
+}
